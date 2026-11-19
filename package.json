@@ -1,0 +1,10 @@
+{
+  "name": "moreys-nextdoor-agent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "OAuth callback starter for Morey's Home Services Nextdoor integration",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1"
+  }
+}
